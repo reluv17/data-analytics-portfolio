@@ -9,3 +9,6 @@ var myVar <- "Hello, world!";
 ``` r
 var myVar <- c(1,2,ayitey, Hello, world!
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
